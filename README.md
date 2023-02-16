@@ -23,7 +23,7 @@ HTML, CSS
 
 ## Demo
 
-https://barbaros163.github.io/Calculator_without_js/
+https://barbaros163.github.io/calculator_without_js/
 ## Feedback
 
 If you have any feedback, please reach out to me at barbaros1675@gmail.com
